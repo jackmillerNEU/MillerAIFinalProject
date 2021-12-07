@@ -9,8 +9,8 @@ I made this project to experiment with different search algorithms and observe h
 ### Instructions:
 #### The board is controlled by keyboard inputs
 
-#### O and I:
-Cycle through 8 grid maps with O to go forward and I to go backward
+#### O/I and M:
+Cycle through 8 grid maps with O to go forward and I to go backward, or create a maze with M.
 
 #### P:
 To simply go through each algorithm one by one, press P. 
@@ -23,6 +23,9 @@ The R key simply resets the game to its initial state, while the C button simply
 
 #### E, Arrow Keys:
 This enables the editor, a gray tile which can be moved with the arrow keys.
+
+#### S and F
+If the editor is on, pressing S over a tile will set the start and pressing F will set the finish.
 
 #### Q, W, A:
 If the editor is on, pressing these keys will change the type of cell selected by the editor.
