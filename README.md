@@ -7,6 +7,11 @@
 I made this project to experiment with different search algorithms and observe how they work differently from eachother. The three algorithms I implemented where DFS, BFS, and A* with several heuristics. The "World" for this project is a 20x20 grid in which can be placed empty cells, wall cells, water cells, or a mobile monster cell. 
 
 ### Instructions:
+#### The board is controlled by keyboard inputs
+
+#### O and I
+Cycle through 8 grid maps with O to go forward and I to go backward
+
 #### P
 To simply go through each algorithm one by one, press P. 
 
